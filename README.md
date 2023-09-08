@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Abhinav U</h1>
 <h3 align="center">Pursuing btech degree in <strong>computer science engineering</strong></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=06abhinav123&label=Profile%20views&color=0e75b6&style=flat" alt="06abhinav123" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=06abhinav123&label=Profile%20views&color=0e75b6&style=flat" alt="06abhinav123" /> </p>
 
-- 🌱 I’m currently learning **Fullstack development**
+<p align="center" >- 🌱 I’m currently learning **Fullstack development**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
