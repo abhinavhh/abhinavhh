@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhinav Anil</h1>
-<h3 align="center">Pursuing btech degree in <strong>computer science engineering</strong></h3>
+<h5 align="center">Pursuing btech degree in <strong>computer science engineering</strong></h5>
 
 
 
-# <p align="center" style:color="green"> 🌱 I’m interested in Fullstack Web Development</p>
+  <h2 align="center"> I’m interested in Fullstack Web Development</h2>
 
-# Languages and Libraries Known
+<h2>Languages and Libraries Known</h2>
 
 I am proficient in the following programming languages:
 
