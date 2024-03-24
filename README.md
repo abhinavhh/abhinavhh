@@ -3,7 +3,7 @@
 
 
 
-# <p align="center" > 🌱 I’m interested in Fullstack Web Development</p>
+# <p align="center" style:color="green"> 🌱 I’m interested in Fullstack Web Development</p>
 
 # Languages and Libraries Known
 
