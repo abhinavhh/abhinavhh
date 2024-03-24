@@ -23,3 +23,6 @@ I am proficient in the following programming languages:
 <p>
 <a href="https://instagram.com/_abhi_navhh_" target="blank" rel="norefferer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abhi_navhh_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abhinav-u-212b64286" target="blank" rel="norefferer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav u" height="30" width="40" /></a></p>
+<h1>I am a third-year BTech student passionate about Full Stack development. Currently, I am learning and exploring various technologies to enhance my skills in this field.</h1>
+
+Improvements and Suggestions:
