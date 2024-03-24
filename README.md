@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Anil</h1>
 <h3 align="center">Pursuing btech degree in <strong>computer science engineering</strong></h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=06abhinav123&label=Profile%20views&color=0e75b6&style=flat" alt="06abhinav123" /> </p>
+
 
 # <p align="center" > 🌱 I’m interested in Fullstack Web Development</p>
 
