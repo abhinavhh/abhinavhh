@@ -9,13 +9,13 @@
 
 I am proficient in the following programming languages and technologies:
 
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
-- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-- ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS](https://img.icons8.com/color/48/000000/css3.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![C](https://img.icons8.com/color/48/000000/c-programming.png)
 
 ## Connect with me:
 
