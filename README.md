@@ -1,29 +1,27 @@
-
 <h1 align="center">Hi 👋, I'm Abhinav Anil</h1>
-<h3 align="center">Pursuing btech degree in <strong>computer science engineering</strong></h3>
+<h3 align="center">Pursuing a BTech degree in <strong>Computer Science Engineering</strong></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=06abhinav123&label=Profile%20views&color=0e75b6&style=flat" alt="06abhinav123" /> </p>
 
-# <p align="center" > 🌱 I’m interested in Fullstack Web Development</p>
+# 🌱 I’m interested in Fullstack Web Development
 
-# Languages and Libraries Known
+## Languages and Libraries Known
 
-I am proficient in the following programming languages:
+I am proficient in the following programming languages and technologies:
 
- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
- ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
- ![C](https://img.icons8.com/color/48/000000/c-programming.png) 
- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
- ![React](https://img.icons8.com/color/48/000000/react-native.png) 
- ![Python](https://img.icons8.com/color/48/000000/python.png) 
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
+- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+- ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
 
+## Connect with me:
 
+[![Instagram](https://img.shields.io/badge/-_abhi_navhh_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_abhi_navhh_)
+[![LinkedIn](https://img.shields.io/badge/-Abhinav%20U-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-u-212b64286)
 
-<h3>Connect with me:</h3>
-<p>
-<a href="https://instagram.com/_abhi_navhh_" target="blank" rel="norefferer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abhi_navhh_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abhinav-u-212b64286" target="blank" rel="norefferer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav u" height="30" width="40" /></a></p>
+---
 
-
-
+I am a third-year BTech student passionate about Full Stack development. Currently, I am learning and exploring various technologies to enhance my skills in this field.
