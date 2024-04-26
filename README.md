@@ -15,7 +15,7 @@ I am proficient in the following programming languages:
 # <p align="center">Pursuing btech degree in <strong>computer science engineering</strong></p>
 
 <h3>I am a third-year BTech student passionate about Full Stack development. Currently, I am learning and exploring various technologies to enhance my skills in this field.</h3>
-i want to create a ppt for presentation of my mini project BHUB it must  need to have introduction, existing system (problem statement ) , proposed system , system design ( architecture , dfd, table design) , implementation , final output , future scope , and conclusion : BHUB is a website for uploading and reading books , with user register page , login page , after login interface for reader, author, admin is different , for readers there is different genre they can choose book and view details and read them , book is either paid or free . reader can also like , comment and review the books. On author page they can upload books from there, they can see who were read their books and they can see the reviews also. An admin can see all the details of the website . Create a prompt for making a ppt for this project  
+  
 
 
 
