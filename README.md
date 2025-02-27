@@ -1,5 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Abhinav Anil</h1>
-# <p align="center">Pursuing btech degree in <strong>computer science engineering</strong></p>
+# <p align="center">Pursuing b.tech in <strong>computer science and engineering</strong></p>
 
 <h2>About Me</h2>
 
