@@ -3,7 +3,7 @@
 
 <h2>About Me</h2>
 
-Hello! I am a third-year BTech student passionate about Full Stack development. Currently, I am learning and exploring various technologies to enhance my skills in this field. I have experience in web development and I enjoy working on projects that challenge me to learn and grow.
+Hello! I' m a BTech computer science student passionate about Full Stack development. Currently, I am learning and exploring various technologies to enhance my skills in this field. I have experience in web development and I enjoy working on projects that challenge me to learn and grow.
 
 <h2>Skills and Technologies</h2>
 
@@ -12,16 +12,23 @@ Here are some of the technologies and tools I frequently work with:<br>
 Programming Languages:
 
  ![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
- ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
+ ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+ ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
  ![C](https://img.icons8.com/color/48/000000/c-programming.png) 
  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
  ![Python](https://img.icons8.com/color/48/000000/python.png)
- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+ ![NodeJs](https://img.icons8.com/?size=50&id=t9oCxEN7McHZ&format=png&color=ffffff)
+ ![ExpressJs](https://img.icons8.com/?id=SDVmtZ6VBGXt&format=png&color=ffffff)
+ ![Spring Boot](https://img.icons8.com/?id=90519&format=png&color=000000)
+ ![PostgreSql](https://img.icons8.com/?id=25010&format=png&color=ffffff)
+ ![MongoDB](https://img.icons8.com/?size=50&id=tBBf3P8HL0vR&format=png&color=000000)
 
      
 Frameworks and Libraries: 
 
  ![React](https://img.icons8.com/color/48/000000/react-native.png)
+ ![TailwindCss](https://img.icons8.com/?id=CIAZz2CYc6Kc&format=png&color=000000)
+ ![Bootstrap](https://img.icons8.com/?id=PndQWK6M1Hjo&format=png&color=000000)
 
 <h3>Connect with me:</h3>
 <p>
