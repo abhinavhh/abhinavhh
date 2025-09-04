@@ -27,6 +27,7 @@ Programming Languages:
 Frameworks and Libraries: 
 
  ![React](https://img.icons8.com/color/48/000000/react-native.png)
+ ![Angular](https://img.icons8.com/?size=50&id=6SWtW8hxZWSo&format=png&color=000000)
  ![TailwindCss](https://img.icons8.com/?id=CIAZz2CYc6Kc&format=png&color=000000)
  ![Bootstrap](https://img.icons8.com/?id=PndQWK6M1Hjo&format=png&color=000000)
 
