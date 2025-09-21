@@ -33,7 +33,7 @@ Frameworks and Libraries:
 
 <h3>Leetcode Stats</h3>
 
-![Leetcode]("https://leetcode.com/u/06abhinav123?theme=dark&font=baloo&ext=heatmap")
+![LeetCode Stats](https://leetcard.jacoblin.cool/06abhinav123?me=dark&font=baloo&ext=heatmap)
 <h3>Connect with me:</h3>
 <p>
  I'm always open to discussing new projects, collaborations, or opportunities. You can reach me through the following channels:
