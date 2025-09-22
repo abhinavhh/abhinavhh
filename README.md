@@ -136,8 +136,8 @@ graph LR
 
 ### ✨ **"Code is poetry written in logic"** ✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=06abhinav123&color=58A6FF&style=for-the-badge&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/06abhinav123?color=58A6FF&style=for-the-badge&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=abhinavhh&color=58A6FF&style=for-the-badge&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/abhinavhh?color=58A6FF&style=for-the-badge&label=Followers)
 
 **⭐ From [Abhinav Anil](https://github.com/06abhinav123) with 💙**
 
