@@ -81,7 +81,7 @@ const abhinav = {
 
 ## 🧠 **LeetCode Journey**
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/06abhinav123?theme=unicorn&font=baloo&ext=heatmap)](https://leetcode.com/06abhinav123)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/06abhinav123?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/06abhinav123)
 
 </div>
 
