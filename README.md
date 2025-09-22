@@ -139,6 +139,6 @@ graph LR
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinavhh&color=58A6FF&style=for-the-badge&label=Profile+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/abhinavhh?color=58A6FF&style=for-the-badge&label=Followers)
 
-**⭐ From [Abhinav Anil](https://github.com/06abhinav123) with 💙**
+**⭐ From [Abhinav Anil](https://github.com/abhinavhh) with 💙**
 
 </div>
