@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 🚀 **About Me**
 
@@ -71,7 +71,8 @@ const abhinav = {
 
 ## 📊 **GitHub Analytics**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavhh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavhh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=450&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavhh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
 </div>
