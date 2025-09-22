@@ -39,36 +39,14 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> **About Me**
 
 ```typescript
-interface Developer {
-  name: string;
-  role: string;
-  education: string;
-  currentFocus: string[];
-  passions: string[];
-  currentlyLearning: string[];
-  askMeAbout: string[];
-  technologies: {
-    frontend: string[];
-    backend: string[];
-    databases: string[];
-    tools: string[];
-  };
-}
-
 const abhinav: Developer = {
   name: "Abhinav Anil",
   role: "Full Stack Developer",
   education: "B.Tech Computer Science & Engineering",
-  currentFocus: ["System Design", "Scalable Applications"],
+  currentFocus: ["Software Development", "Scalable Applications"],
   passions: ["Web Development", "Problem Solving", "Open Source"],
-  currentlyLearning: ["Advanced React Patterns", "Microservices", "DevOps"],
+  currentlyLearning: ["Advanced React Patterns", "MERN", "Django", "Spring Boot", "Angular"],
   askMeAbout: ["Web Development", "Software Architecture", "Tech Trends"],
-  technologies: {
-    frontend: ["React", "Angular", "TypeScript", "Next.js"],
-    backend: ["Node.js", "Spring Boot", "Python", "Express"],
-    databases: ["MongoDB", "PostgreSQL", "Redis"],
-    tools: ["Docker", "Git", "AWS", "VS Code"]
-  }
 };
 ```
 
