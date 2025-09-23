@@ -205,18 +205,6 @@ graph TB
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d1117&border_color=30363d" alt="Random Dev Quote" />
 
 </div>
-
----
-
-<div align="center">
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> **Support My Work**
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00)](https://buymeacoffee.com/abhinavanil)
-[![Sponsor](https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white&labelColor=30363D)](https://github.com/sponsors/abhinavhh)
-
-</div>
-
 ---
 
 <div align="center">
