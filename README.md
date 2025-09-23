@@ -221,14 +221,6 @@ graph TB
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-
-</div>
-
----
-
-<div align="center">
-
 ### 🌟 **"First, solve the problem. Then, write the code."** 🌟
 
 <table>
